@@ -1,9 +1,43 @@
 body {
-  background: #cccccc
+  background: white
+}
+#Banner {
+  width: 100%;
+  height: 750px;
+}
+.MainText{
+  background:grey;
+  padding: 30px;
+}
+.TituloPrincipal{
+  padding-left: 20px;
+}
+.TituloCentralizado{
+  text-align: center;
 }
 p {
   text-align: center
 }
+#missao {
+  font-size: 20px  
+}
 em strong{
   Color: red
+}
+.itens{
+    font-style: italic;
+
+}
+.beneficios{
+  background: white;
+  padding: 20px;
+}
+ul{
+  display: inline-block;
+  vertical-align: top;
+  width: 20%;
+  margin-right: 15%;
+}
+#Banner2{
+  width: 50%;
 }
