@@ -2,6 +2,9 @@ header{
     background: grey;
     padding: 20px 0;
 }
+.logo2:hover{
+    transform: scale(1.2);
+}
 .caixa{
     position: relative;
     width: 940px;
